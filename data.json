@@ -1,12 +1,6 @@
 {
   "products": [
     {
-      "id": "EH-005",
-      "name": "Bergbauer",
-      "desc": "Rustikale Schnitzfigur eines Bergbauern. Jedes StÃ¼ck ist ein EinzelstÃ¼ck.",
-      "img": null
-    },
-    {
       "id": "EH-006",
       "name": "Holzschale",
       "desc": "Gedrechselte Schale aus Walnussholz â natÃ¼rliche Maserung, einmalig.",
