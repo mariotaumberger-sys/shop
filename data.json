@@ -1,12 +1,6 @@
 {
   "products": [
     {
-      "id": "EH-003",
-      "name": "Holzstern groÃ",
-      "desc": "GroÃer Dekorationstern aus Zirbenholz, natÃ¼rlich und duftend.",
-      "img": null
-    },
-    {
       "id": "EH-004",
       "name": "Holzstern klein",
       "desc": "Kleiner Zirbenstern â perfekt als Geschenk oder Fensterdeko.",
