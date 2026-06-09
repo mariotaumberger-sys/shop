@@ -1,0 +1,51 @@
+{
+  "products": [
+    {
+      "id": "EH-001",
+      "name": "Holzengel",
+      "desc": "Handgeschnitzter Engel aus heimischer Zirbe. Ein Unikat für Ihr Zuhause.",
+      "img": null
+    },
+    {
+      "id": "EH-002",
+      "name": "Waldmandl",
+      "desc": "Charmante Figur aus Bergahorn – der kleine Waldgeist für Ihr Regal.",
+      "img": null
+    },
+    {
+      "id": "EH-003",
+      "name": "Holzstern groß",
+      "desc": "Großer Dekorationstern aus Zirbenholz, natürlich und duftend.",
+      "img": null
+    },
+    {
+      "id": "EH-004",
+      "name": "Holzstern klein",
+      "desc": "Kleiner Zirbenstern – perfekt als Geschenk oder Fensterdeko.",
+      "img": null
+    },
+    {
+      "id": "EH-005",
+      "name": "Bergbauer",
+      "desc": "Rustikale Schnitzfigur eines Bergbauern. Jedes Stück ist ein Einzelstück.",
+      "img": null
+    },
+    {
+      "id": "EH-006",
+      "name": "Holzschale",
+      "desc": "Gedrechselte Schale aus Walnussholz – natürliche Maserung, einmalig.",
+      "img": null
+    }
+  ],
+  "settings": {
+    "eyebrow": "Handarbeit aus dem Montafo",
+    "heroTitle": "Holzkunst mit Herz & Seele",
+    "heroText": "Jedes Stück ist ein Unikat – gefertigt mit Liebe, Geduld und dem Wissen um das Holz.\nAus der Region, für die Region. Nachhaltig, natürlich, unvergesslich.",
+    "heroSig": "Elfriede Salcher, Bartholomäberg",
+    "aboutTitle": "Hallo, ich bin Elfriede!",
+    "aboutP1": "Ich bin Elfriede Salcher aus Bartholomäberg im schönen Montafon. Seit vielen Jahren schaffe ich Holzkunstwerke aus Holz unserer Region – vom nahen Wald direkt in Ihre Hände.",
+    "aboutP2": "Jedes meiner Stücke erzählt eine Geschichte: von den Wäldern, von der Natur, und von der Liebe zur Handarbeit. Ob Dekofigur, Skulptur oder kleines Kunstwerk – alles wird mit größter Sorgfalt und viel Herzblut gefertigt.",
+    "footerText": "Elfis Holzshop · Elfriede Salcher · Bartholomäberg, Montafon",
+    "footerEmail": "deckel1995@gmx.at"
+  }
+}
