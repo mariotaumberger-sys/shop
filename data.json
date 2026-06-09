@@ -1,12 +1,6 @@
 {
   "products": [
     {
-      "id": "EH-002",
-      "name": "Waldmandl",
-      "desc": "Charmante Figur aus Bergahorn â der kleine Waldgeist fÃ¼r Ihr Regal.",
-      "img": null
-    },
-    {
       "id": "EH-003",
       "name": "Holzstern groÃ",
       "desc": "GroÃer Dekorationstern aus Zirbenholz, natÃ¼rlich und duftend.",
