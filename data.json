@@ -1,12 +1,6 @@
 {
   "products": [
     {
-      "id": "EH-004",
-      "name": "Holzstern klein",
-      "desc": "Kleiner Zirbenstern â perfekt als Geschenk oder Fensterdeko.",
-      "img": null
-    },
-    {
       "id": "EH-005",
       "name": "Bergbauer",
       "desc": "Rustikale Schnitzfigur eines Bergbauern. Jedes StÃ¼ck ist ein EinzelstÃ¼ck.",
